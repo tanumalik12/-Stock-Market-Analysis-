@@ -4,7 +4,7 @@ Time Series data is a series of data points indexed in time order. Time series d
 
 In this notebook, I will discover and explore data from the stock market, particularly some technology stocks (Apple, Amazon, Google, and Microsoft). I will visualize different aspects of it using Seaborn and Matplotlib. I will look at a few ways of analyzing the risk of a stock, based on its previous performance history. I will also be predicting future stock prices through a Long Short Term Memory (LSTM) method!
 
-I'll be answering the following questions along the way:
+I'll be answering the following questions along the way: 
 What was the change in price of the stock over time?
 What was the daily return of the stock on average?
 What was the moving average of the various stocks?
